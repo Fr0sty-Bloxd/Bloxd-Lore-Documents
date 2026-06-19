@@ -24,3 +24,4 @@ Skywars was added and prison was a limited time gamemode that was sadly removed 
 Pirates was readded in a gamemode vote against survival royale.
 Arthur shrunk the world down to 200,000 blocks temporarily and promised to resize it back up to 400,000 in the next update.
 Border was resize back up as promised.
+On the 12-15th of February Bloxd suffered a large security breach that revealed everyone's emails and IP addresses through ban info, the creator of illegal swift client, Revolux was hacked on discord by a user named Motion, he told a moderator at the time named AgentS (who later stepped down) to test the 
