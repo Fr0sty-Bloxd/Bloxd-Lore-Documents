@@ -29,4 +29,9 @@ After all this was fixed and everything went back to normal, DirtyFleaSack accid
 Infection was released.
 Old thumbnails were changed into current versions.
 The most famous and best gamemode was added, Factions.
+Multiple gamemodes, errors, bug fixes, thumbnails, and updates were added during this time (too many to count)
 
+# 4.2024
+Defusal, chat UI, and world builder were added.
+Factions was sadly removed but multiple mobs and biomes were added.
+New gamemodes.
