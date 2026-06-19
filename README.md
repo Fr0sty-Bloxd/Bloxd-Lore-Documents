@@ -24,4 +24,9 @@ Skywars was added and prison was a limited time gamemode that was sadly removed 
 Pirates was readded in a gamemode vote against survival royale.
 Arthur shrunk the world down to 200,000 blocks temporarily and promised to resize it back up to 400,000 in the next update.
 Border was resize back up as promised.
-On the 12-15th of February Bloxd suffered a large security breach that revealed everyone's emails and IP addresses through ban info, the creator of illegal swift client, Revolux was hacked on discord by a user named Motion, he told a moderator at the time named AgentS (who later stepped down) to test the 
+On the 12-15th of February Bloxd suffered a large security breach that revealed everyone's emails and IP addresses through ban info, the creator of illegal swift client, Revolux was hacked on discord by a user named Motion, he told a moderator at the time named AgentS (who later stepped down) to test the client, which allowed Motion to hack AgentS to take control of Bloxd and leak everyones info. Motion was able to log into ANY account made before he leaked everyone's accounts.
+After all this was fixed and everything went back to normal, DirtyFleaSack accidently leaked the Anarchy gamemode on staging.
+Infection was released.
+Old thumbnails were changed into current versions.
+The most famous and best gamemode was added, Factions.
+
